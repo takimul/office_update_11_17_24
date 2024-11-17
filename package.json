@@ -1,0 +1,46 @@
+{
+  "name": "my-office",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "@studio-freight/react-lenis": "^0.0.47",
+    "@tanstack/react-query": "^5.56.2",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "framer-motion": "^11.11.1",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.13",
+    "mongodb": "^6.9.0",
+    "next": "14.2.13",
+    "next-auth": "^4.24.8",
+    "p5": "^1.11.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.53.0",
+    "react-icons": "^5.3.0",
+    "react-rating-stars-component": "^2.2.0",
+    "react-toastify": "^10.0.5",
+    "simple-parallax-js": "^6.0.1",
+    "swiper": "^11.1.14",
+    "three": "^0.169.0",
+    "vanta": "^0.5.24"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.11",
+    "@types/three": "^0.169.0",
+    "daisyui": "^4.12.10",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.13",
+    "postcss": "^8.4.47",
+    "prettier": "^3.3.3",
+    "prettier-plugin-tailwindcss": "^0.6.8",
+    "tailwindcss": "^3.4.13"
+  }
+}
