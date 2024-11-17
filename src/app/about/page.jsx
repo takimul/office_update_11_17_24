@@ -17,7 +17,7 @@ const page = () => {
       description:
         "Senior Front-End Developer specializing in creating responsive, interactive, and visually appealing user interfaces using HTML, CSS, JavaScript, and modern frameworks. Expert in optimizing performance, ensuring cross-browser compatibility, and delivering seamless user experiences.",
       image:
-        "https://i.ibb.co.com/tYHRrzz/Whats-App-Image-2024-11-17-at-10-53-05-PM.jpg",
+        "https://i.ibb.co.com/gF4Swgw/Whats-App-Image-2024-11-17-at-11-12-59-PM.jpg",
     },
     {
       name: "Rafiul Haque Raad",
